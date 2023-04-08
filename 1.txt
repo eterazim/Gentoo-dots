@@ -1,0 +1,9 @@
+gui-libs/wlroots **
+dev-libs/wayland **
+dev-util/wayland-scanner **
+dev-libs/wayland-protocols **
+media-libs/mesa **
+#gui-wm/hyprland ** (Right now you can't build hyprland 9999 because of an 
+update. But normally I advise using 9999. Check again later. I normally 
+update daily as it's a very frequntly developing software)
+x11-libs/libdrm **
